@@ -1,5 +1,5 @@
 # PythonLearningMosh
-Learned about
+Mimic the whole video https://www.youtube.com/watch?v=kqtD5dpn9C8
 - Variables
 - Inputs
 - Type Conversion 
